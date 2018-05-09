@@ -295,56 +295,56 @@ public class VentanaNN extends javax.swing.JFrame {
                         }
                         break;
                     case "2":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "veinti";
                         } else {
                             unidad = "veinte ";
                         }
                         break;
                     case "3":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "treinta y ";
                         } else {
                             unidad = "treinta ";
                         }
                         break;
                     case "4":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "cuarenta y ";
                         } else {
                             unidad = "cuarenta ";
                         }
                         break;
                     case "5":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "cincuenta y ";
                         } else {
                             unidad = "cincuenta ";
                         }
                         break;
                     case "6":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "sesenta y ";
                         } else {
                             unidad = "sesenta";
                         }
                         break;
                     case "7":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "setenta y ";
                         } else {
                             unidad = "setenta ";
                         }
                         break;
                     case "8":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "ochenta y ";
                         } else {
                             unidad = "ochenta ";
                         }
                         break;
                     case "9":
-                        if (!unidad.equals("cero")) {
+                        if (!unidad.equals("cero ")) {
                             decena = "noventa y ";
                         } else {
                             unidad = "noventa ";
